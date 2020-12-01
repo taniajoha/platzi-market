@@ -14,17 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f33979-1f90-4824-b0a1-1aa6820e67b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/platzi/market/persistence/ProductoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/platzi/market/persistence/crud/ProductoCrudRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/platzi/market/persistence/entity/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/platzi/market/persistence/entity/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/platzi/market/persistence/entity/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/platzi/market/persistence/entity/ComprasProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/platzi/market/persistence/entity/ComprasProductoPK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/platzi/market/persistence/entity/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/platzi/market/web/controller/HolaMundoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-pdn.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +68,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RunManager">
@@ -121,16 +112,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-4" y="0" key="#Project_Structure" timestamp="1606581349430">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="-4" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1606581349430" />
+    <state x="393" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606788046793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="393" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1606788046793" />
     <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1606703543533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1606703543533" />
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1606788534341">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1606788534341" />
     <state width="1237" height="68" key="GridCell.Tab.0.bottom" timestamp="1606785596423">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
@@ -155,10 +155,14 @@
     <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1606714197970" />
     <state width="1237" height="68" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1606785596423" />
     <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606771228727" />
-    <state x="2040" y="0" key="SettingsEditor" timestamp="1606785297955">
+    <state x="2040" y="0" key="SettingsEditor" timestamp="1606788806988">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
-    <state x="2040" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1606785297955" />
+    <state x="2040" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1606788806988" />
+    <state x="91" y="0" key="new project wizard" timestamp="1606788156646">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1606788156646" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1606705281875">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
