@@ -1,0 +1,20 @@
+com/platzi/market/persistence/entity/ComprasProducto.java
+ com.platzi.market.persistence.entity.ComprasProducto
+com/platzi/market/PlatziMarketApplication.java
+ com.platzi.market.PlatziMarketApplication
+com/platzi/market/persistence/entity/Producto.java
+ com.platzi.market.persistence.entity.Producto
+com/platzi/market/persistence/entity/Categoria.java
+ com.platzi.market.persistence.entity.Categoria
+com/platzi/market/persistence/crud/ProductoCrudRepository.java
+ com.platzi.market.persistence.crud.ProductoCrudRepository
+com/platzi/market/persistence/ProductoRepository.java
+ com.platzi.market.persistence.ProductoRepository
+com/platzi/market/persistence/entity/Compra.java
+ com.platzi.market.persistence.entity.Compra
+com/platzi/market/web/controller/HolaMundoController.java
+ com.platzi.market.web.controller.HolaMundoController
+com/platzi/market/persistence/entity/Cliente.java
+ com.platzi.market.persistence.entity.Cliente
+com/platzi/market/persistence/entity/ComprasProductoPK.java
+ com.platzi.market.persistence.entity.ComprasProductoPK
